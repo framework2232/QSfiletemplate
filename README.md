@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/framework2232/framework2232.github.io/blob/master/images/banner.png?raw=true" alt="Framework2232 Logo" width="500"/>
+    <img src="https://github.com/framework2232/framework2232.github.io/blob/master/images/Framework2232_Banner_BlackWhite_45deg.png" alt="Framework2232 Logo" width="500"/>
 </p>
 <h1 align=center>QS FILE TEMPLATE</h1>
 
